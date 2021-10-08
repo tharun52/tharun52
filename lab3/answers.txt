@@ -1,0 +1,11 @@
+sort1 uses: bubble sort.
+
+How do you know?: because omega value is the smallest value.
+
+sort2 uses: merge sort.
+
+How do you know?: because omega is between sort2 and sort3 and the O() is the smallest.
+
+sort3 uses: selection sort.
+
+How do you know?: because omega is the largest and O() is the largest.
